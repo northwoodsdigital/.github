@@ -1,3 +1,3 @@
-Northwoods Digital is a software studio owned and operated by [Tara Vancil](https://taravancil.com), providing web development + design, custom software, website maintenance, search engine optimization, and more.
+Northwoods Digital provides expert digital services to businesses big and small. Owned and operated by [Tara Vancil](https://taravancil.com), we offer web development + web design, custom software, web hosting, tech support, search engine optimization, and more.
 
 Interested in working together? Send an email to tara@northwoods.digital.
